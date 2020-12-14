@@ -2,7 +2,7 @@
 
 System Programming, Cloud Computing (2nd Semester 202i0. Integrated Mini Projec#)
 
-개발 환경 : 우분투 리눅스 20.04 , Apache Cordova
+개발 환경 : 우분투 20.04.01 LTS , Apache Cordova
 
 사용한 클라우드 서비스 : Amazon AWS (Rekognition)
 
